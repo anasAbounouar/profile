@@ -370,21 +370,21 @@
       <!-- start footer  -->
       <footer>
         <div class="container">
-          <div class="flex justify-between sm:justify-end items-center">
+          <div class="flex justify-center sm:justify-end items-center">
             <div class="w-11/12 sm:w-1/2 align-small flex justify-end p-3">
               <div>
                 <a href="https://web.facebook.com/?_rdc=1&_rdr" target="_blank"
-                  ><i class="fa-brands fa-facebook-f text-white"></i
+                  ><i class="mx-3 text-2xl fa-brands fa-facebook-f text-white"></i
                 ></a>
               </div>
               <div>
                 <a href="https://wa.me/2120688698494" target="_blank"
-                  ><i class="fa-brands fa-whatsapp text-white"></i
+                  ><i class="mx-3 text-2xl fa-brands fa-whatsapp text-white"></i
                 ></a>
               </div>
               <div>
                 <a href="https://www.linkedin.com/in/anas-abounouar-a7b616248/" target="_blank"
-                  ><i class="fa-brands fa-linkedin text-white"></i
+                  ><i class="mx-3 text-2xl fa-brands fa-linkedin text-white"></i
                 ></a>
               </div>
             </div>
