@@ -4,7 +4,7 @@
     <!-- content wrapper  -->
     <div class="content-wrapper">
       <!-- start home  -->
-      <section id="home" class="p-0 px-5 h-screen flex items-center justify-center">
+      <section id="home" class="p-0 px-0 sm:px-5 h-screen flex items-center justify-center">
         <div class="container">
           <div class="flex flex-col items-center justify-center">
             <div class="md:w-2/3 m-auto p-4 md:p-0">
@@ -43,7 +43,7 @@
       </section>
       <!-- end home  -->
       <!-- start services  -->
-      <section id="services" class="px-5 h-full">
+      <section id="services" class="px-0 sm:px-5 h-full">
         <div class="container">
           <div class="flex">
             <div class="w-9/12 ml-3 sm:ml-0">
@@ -110,7 +110,7 @@
       </section>
       <!-- end services  -->
       <!-- start work  -->
-      <section id="work" class="px-5 h-full">
+      <section id="work" class="px-0 sm:px-5 h-full">
         <div class="container">
           <div class="flex flew-wrap flex-col ml-3 sm:ml-0">
             <div class="h-full w-11/12 sm:w-6/12 md:w-4/12">
@@ -190,7 +190,7 @@
       </section>
       <!-- end  work  -->
       <!-- start about  -->
-      <section id="about" class="px-5 h-full">
+      <section id="about" class="px-0 sm:px-5 h-full">
         <div class="container">
           <div class="flex mb-3 ml-3 sm:ml-0">
             <div class="w-11/12 sm:w-9/12 mt-0">
@@ -250,7 +250,7 @@
       </section>
       <!-- end about  -->
       <!-- start reviews  -->
-      <section id="reviews" class="px-5">
+      <section id="reviews" class="px-0 sm:px-5">
         <div class="container">
           <div class="flex ml-3 sm:ml-0">
             <div class="w-9/12">
@@ -334,7 +334,7 @@
       </section>
       <!-- end reviews  -->
       <!-- start contact  -->
-      <section id="contact" class="sm:px-5">
+      <section id="contact" class="px-0 sm:px-5">
         <div class="container text-center">
           <div class="flex flex-col items-center justify-center mb-4">
             <div class="w-10/12 py-3">
