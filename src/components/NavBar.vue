@@ -17,7 +17,7 @@
           <button
             type="button"
             data-dropdown-toggle="language-dropdown-menu"
-            class="language-btn inline-flex items-center font-medium justify-center px-4 py-2 text-sm text-white hover:text-gray-900 dark:text-white rounded-lg cursor-pointer hover:bg-gray-100 dark:hover:bg-gray-700 dark:hover:text-white"
+            class="language-btn inline-flex items-center font-medium justify-center px-2 mx-2 py-2 text-sm text-white hover:text-gray-900 dark:text-white rounded-lg cursor-pointer hover:bg-gray-100 dark:hover:bg-gray-700 dark:hover:text-white"
             v-html="svg"
           ></button>
           <!-- Dropdown -->
